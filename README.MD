@@ -4,7 +4,7 @@ Prueba Técnica Node.js - V++
 
 ## Instrucciones
 
-1. Método GET que devuelva  ordenados por donde el nombre empiece con el parámetro de ruta enviado.
+1. Método GET que devuelva los usuarios con el permiso por pantalla ordenados por nombre de usuario y nombre de pantalla.
 2. Método GET que devuelva los permisos para un usuario donde el id coincida con el parámetro de ruta 'id'.
 3. Método POST que permita agregar permisos a un usuario teniendo cómo entrada un listado de pantallas
     3.1. Validar que el usuario y las pantallas existan en la base de datos y que el usuario no cuenta previamente con el nuevo permiso otorgado.
