@@ -15,7 +15,7 @@ Prueba Técnica Node.js - V++
 
 ## Consideraciones generales
 - Los métodos deberán estar creados bajo el endpoint '/permisos'
-- Los valores posibles para permisos posibles son 'L' (Lectura) y 'E'(Escritura).
+- Los valores posibles para permisos posibles son 'R' (Lectura) y 'W'(Escritura).
 - Usuario -> Rol -> Permisos <- Pantallas
 - El tipo de cuerpo de entrada deberá ser application/json.
 - El tipo de cuerpo de salida podrá ser application/json o text/plain según aplique.
