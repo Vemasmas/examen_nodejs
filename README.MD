@@ -86,4 +86,10 @@ Imagina que trabajas en el desarrollo de un Sistema de Gestión de Recursos Huma
 - Asistente de RRHH: Acceso a Gestión de Empleados y Nóminas, pero no a Evaluaciones de Desempeño.
 - Empleado Regular: Acceso solo al módulo de Administración de Beneficios.
 
+## Base de datos
+
+### Diagrama
+
+![DB DIAGRAM](./db-diagram.png)
+
 
